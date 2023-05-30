@@ -1,0 +1,104 @@
+#weatherWidget .currentDesc {
+    color: #ffffff !important;
+}
+
+.traffic-chart {
+    min-height: 335px;
+}
+
+#flotPie1 {
+    height: 150px;
+}
+
+#flotPie1 td {
+    padding: 3px;
+}
+
+#flotPie1 table {
+    top: 20px !important;
+    right: -10px !important;
+}
+
+.chart-container {
+    display: table;
+    min-width: 270px;
+    text-align: left;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+#flotLine5 {
+    height: 105px;
+}
+
+#flotBarChart {
+    height: 150px;
+}
+
+#cellPaiChart {
+    height: 160px;
+}
+
+.card .box-title {
+    color: #3181f9;
+    text-align: center;
+    font-weight: 900;
+}
+
+.header-top {
+    color: #3181f9;
+    text-align: center;
+}
+
+.box-title.service_provider {
+    color: #03a9f3;
+    text-align: center;
+    margin-left: 100px;
+    margin-right: 400px;
+    margin-top: 12px;
+    font-size: 20px;
+}
+
+.order-table .badge {
+    color: #fff;
+    padding: 10px;
+    text-transform: uppercase;
+    font-weight: 400
+}
+
+.badges h1,
+.badges h2,
+.badges h3,
+.badges h4,
+.badges h5,
+.badges h6 {
+    margin: 5px 0
+}
+
+aside.left-panel .navbar .navbar-nav li a .badge {
+    display: none
+}
+
+.badge a {
+    color: #eee1e1;
+}
+
+.order-table .badge-complete {
+    background: #00c292
+}
+
+.order-table .badge-pending {
+    background: #fb9678
+}
+
+.order-table .badge-delete {
+    background: #FA0F0F
+}
+
+.order-table .badge-edit {
+    background: #0FA5FA
+}
+
+.badges button {
+    margin: 2px 0
+}
